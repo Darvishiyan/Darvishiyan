@@ -9,7 +9,7 @@ val HesamDarvishiyan = developer {
     languages("Kotlin", "Java")
     links {
         email = "darvishiyan@gmail.com"
-        phone = "+98 915 407 0047"
+        phone = "+98 ### ### ####"
         linkedin = "https://www.linkedin.com/in/darvishiyan/"
     }
 }

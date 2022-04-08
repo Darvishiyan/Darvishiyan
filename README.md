@@ -2,14 +2,14 @@
 val HesamDarvishiyan = developer {
     about {
         name = "Hesam Darvishiyan"
-        company = "Snapp!"
+        company = "Adevinta"
         role = "Android Engineer"
     }
-    location("Tehran, Iran")
+    location("Berlin, Germany")
     languages("Kotlin", "Java")
     links {
         email = "darvishiyan@gmail.com"
-        phone = "+98 ### ### ####"
+        phone = "+49 ### ### ####"
         linkedin = "https://www.linkedin.com/in/darvishiyan/"
     }
 }
